@@ -7,9 +7,9 @@ Neste jogo clássico da [bolinha e raquete](https://ezequiel-lee.github.io/ping-
 # Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
-  <img height="40" width="40" alt="html5" src="https://devicons.dev.br/icons?icon=HTML&size=48&theme=dark&perline=1"/>
-	<img height="40" width="40" alt="css3" src="https://devicons.dev.br/icons?icon=CSS&size=48&theme=dark&perline=1"/>
-  <img height="40" width="40" alt="javascript" src="https://devicons.dev.br/icons?icon=JavaScript&size=48&theme=dark&perline=1"/>
+  <img height="40" width="40" alt="html5" src="./assets/private/html5.png"/>
+	<img height="40" width="40" alt="css3" src="./assets/private/css3.png"/>
+  <img height="40" width="40" alt="javascript" src="./assets/private/javascript.png"/>
 </div>
 
 ## Veja o funcionamento!
